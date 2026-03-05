@@ -23,3 +23,13 @@ Line *midline action* line continuation.
 ```
 
 The headers have to come in the specified order. 
+
+## Installation
+
+Installation through lazy:
+
+```lua
+{
+    'gustav-lastname/scriptscript.nvim'
+}
+```
